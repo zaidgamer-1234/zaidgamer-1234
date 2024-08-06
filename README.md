@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me h.zaidamjad29@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: gamer
+- ⚡ Fun fact: programmer
 
 <!---
 zaidgamer-1234/zaidgamer-1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
